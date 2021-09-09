@@ -1,4 +1,4 @@
-# eshop
+# Flema E-commerce Mobile App
 
 A new Flutter application.
 
